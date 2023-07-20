@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5678aa5c.css",
+    "main.js": "/portfolio/static/js/main.befca76c.js",
+    "static/media/gallery.png": "/portfolio/static/media/gallery.3fab7e00caa1f3010ced.png",
+    "static/media/responsiveForm.png": "/portfolio/static/media/responsiveForm.2af78a1cfdb766130200.png",
+    "static/media/fullstack.jpg": "/portfolio/static/media/fullstack.fd23d74c1a7cc3ae5952.jpg",
+    "static/media/sql.png": "/portfolio/static/media/sql.41f03c06d78c110fba1f.png",
+    "static/media/sass.png": "/portfolio/static/media/sass.0ebb95062e03e33f13d3.png",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.c66ac1703f1199e6f141.pdf",
+    "static/media/logo.png": "/portfolio/static/media/logo.5c29f53f881dc7399cb3.png",
+    "static/media/2.data-pagination-and-filtering.jpg": "/portfolio/static/media/2.data-pagination-and-filtering.4362e33f1cc63320cd20.jpg",
+    "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/sequelize.png": "/portfolio/static/media/sequelize.6acc9771a6285208760f.png",
+    "static/media/sqlite.png": "/portfolio/static/media/sqlite.599a537cd783a1cd6349.png",
+    "static/media/wordHunter.jpg": "/portfolio/static/media/wordHunter.d3a96fb022f378b737ae.jpg",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.5678aa5c.css.map": "/portfolio/static/css/main.5678aa5c.css.map",
+    "main.befca76c.js.map": "/portfolio/static/js/main.befca76c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5678aa5c.css",
+    "static/js/main.befca76c.js"
+  ]
+}
