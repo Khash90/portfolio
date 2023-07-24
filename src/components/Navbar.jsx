@@ -4,7 +4,7 @@ import {FaBars, FaTimes,FaGithub , FaLinkedin, FaFacebook,FaInstagram } from 're
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 import {Link} from 'react-scroll'
 import Resume from '../assets/resume.pdf'
-import Logo from '../assets/logo.png'
+import Logo from '../assets/logo2.PNG'
 
 
 
@@ -18,8 +18,10 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300 z-10'>
 
-        <div>
-            <img src={Logo} alt='logo' style={{ width: '60px' }} /> 
+        <div >
+        <Link to='home' smooth={true} duration={500} className='hover:cursor-pointer'>
+            <img  src={Logo} alt='logo' style={{ width: '120px' , height: '120px' }} /> 
+            </Link>
         </div>
 
       {/* Menu */}
@@ -115,12 +117,12 @@ const Navbar = () => {
 
 
               {/* Facebook */}
-              <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500'>
+              {/* <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-500'>
                 <a className='flex justify-between items-center w-full text-gray-200 '
                  href='https://www.facebook.com/khashayar.dolatshahi/' target='_blank' rel='noreferrer'>
                   Facebook  <FaFacebook size={30} />
                 </a>
-              </li>
+              </li> */}
 
 
               {/* Instagram */}

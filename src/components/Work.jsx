@@ -18,7 +18,7 @@ const Work = () => {
             Work
           </p>
           <p className="py-6 ">
-            // Here some of my works, If you would like to see more , visit my <a href="https://github.com/Khash90" target="_blank" className="hover:cursor-pointer"><strong className="underline">Github</strong></a> please.{" "}
+             Here some of my works, If you would like to see more , visit my <a href="https://github.com/Khash90" target="_blank" className="hover:cursor-pointer"><strong className="underline">Github</strong></a> please.{" "}
           </p>
         </div>
 

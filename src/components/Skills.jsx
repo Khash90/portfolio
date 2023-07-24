@@ -4,7 +4,7 @@ import HTML from '../assets/html.png'
 import CSS  from '../assets/css.png'
 import JavaScript from '../assets/javascript.png'
 import TailWind from '../assets/tailwind.png'
-import Sass from '../assets/sass.png'
+import ReactIcon from '../assets/react.png'
 import Sequelize from '../assets/sequelize.png'
 import SQLite from '../assets/sqlite.png'
 import NodeJs  from '../assets/node.png'
@@ -21,7 +21,7 @@ const Skills = () => {
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full '>
             <div >
                 <p className='text-4xl text-bold inline border-b-4 rounded-md border-[#eb3737]'>Skills</p>
-                <p className='py-4'>// These are the technologies that I've worked with.</p>
+                <p className='py-4'>These are the technologies that I've worked with.</p>
             </div>
 
             <div className='w-full grid grid-cols-2 sm:grid-cols-5 gap-4 text-center py-8'>
@@ -59,8 +59,8 @@ const Skills = () => {
                 </div>
 
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={Sass} alt='Sass icon' />
-                    <p className='my-4'>Sass</p>
+                    <img className='w-20 mx-auto' src={ReactIcon} alt='React icon' />
+                    <p className='my-4'>React</p>
                 </div>
 
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
