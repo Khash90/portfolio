@@ -28,15 +28,15 @@ const Work = () => {
 
           {/* Project1 */}
           <div
-            style={{ backgroundImage: `url(${Fullstack})` }}
+            style={{ backgroundImage: `url(${Fullstack})`  }}
             className="shadow-lg  shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div ">
             {/* Hover effect */}
             <div className="opacity-0 group-hover:opacity-80 ">
               <span className="text-2xl font-bold text-white tracking-wider">
                 FullStack React Library
               </span>
-              <div className="pt-8 text-center">
-                <a href="https://wandering-test-production.up.railway.app/" target="_blank" rel="noreferrer">
+              <div className="pt-8 text-center ">
+                <a href="https://wandering-test-production.up.railway.app/" target="_blank" rel="noreferrer" >
                   <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-blue-700 font-bold text-lg hover:bg-blue-950 hover:text-white duration-500 ">
                     Demo
                   </button>
